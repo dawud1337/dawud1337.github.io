@@ -1,0 +1,30 @@
+<svg width="207" height="207" viewBox="0 0 207 207" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path d="M61.5884 169.702C61.5884 185.254 75.4732 183.576 75.4732 183.576C59.91 183.576 61.5884 197.451 61.5884 197.451L61.4866 197.502C61.4866 181.95 47.6018 183.627 47.6018 183.627C63.165 183.627 61.4866 169.752 61.4866 169.752" stroke="#1A1A1A" stroke-miterlimit="10"/>
+</g>
+<g clip-path="url(#clip1)">
+<path d="M130.915 101.882C130.915 117.434 144.8 115.757 144.8 115.757C129.237 115.757 130.915 129.631 130.915 129.631L130.814 129.682C130.814 114.13 116.929 115.807 116.929 115.807C132.492 115.807 130.814 101.933 130.814 101.933" stroke="#1A1A1A" stroke-miterlimit="10"/>
+</g>
+<g clip-path="url(#clip2)">
+<path d="M158.797 177.237C158.797 192.789 172.682 191.112 172.682 191.112C157.119 191.112 158.797 204.987 158.797 204.987L158.695 205.038C158.695 189.486 144.81 191.163 144.81 191.163C160.374 191.163 158.695 177.288 158.695 177.288" stroke="#1A1A1A" stroke-miterlimit="10"/>
+</g>
+<g clip-path="url(#clip3)">
+<path d="M28.2129 168.152C28.2129 168.152 28.5962 166.586 29.6181 164.173" stroke="#1A1A1A" stroke-miterlimit="10"/>
+<path d="M30.1717 162.988C35.7499 150.967 54.9968 124.046 109.97 150.374C172.48 180.3 188.831 134.078 186.617 115.708" stroke="#1A1A1A" stroke-miterlimit="10" stroke-dasharray="20.21 20.21"/>
+<path d="M186.489 115.073C186.234 113.464 185.85 112.067 185.297 111.009" stroke="#1A1A1A" stroke-miterlimit="10"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="27.8815" height="27.8815" fill="white" transform="translate(47.5924 169.702)"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="27.8815" height="27.8815" fill="white" transform="translate(116.919 101.882)"/>
+</clipPath>
+<clipPath id="clip2">
+<rect width="27.8815" height="27.8815" fill="white" transform="translate(144.801 177.237)"/>
+</clipPath>
+<clipPath id="clip3">
+<rect width="159" height="57.2701" fill="white" transform="translate(28 110.925)"/>
+</clipPath>
+</defs>
+</svg>
